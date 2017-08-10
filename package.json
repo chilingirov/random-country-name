@@ -1,6 +1,6 @@
 {
     "name": "random-country-name",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Get random country names",
     "main": "src/index.js",
     "scripts": {
