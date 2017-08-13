@@ -9,9 +9,8 @@
 
 
 
-var randomCountryName = require("random-country-name")
+var randomCountryName = require("random-country-name");
 
-randomCountryName.all  - display all the countries
+    randomCountryName.all - display all the countries
 
-
-randomCountryName.random() - display a random name of a country
+    randomCountryName.random() - display a random name of a country
